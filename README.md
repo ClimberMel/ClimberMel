@@ -14,9 +14,17 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+<p align="center">
+
 ![Mel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClimberMel&count_private=true&show_icons=true&theme=merko)
-<a align= "left" href="https://github.com/ClimberMel">
+
+</p>
+<p align="center">
+
+<a align= "center" href="https://github.com/ClimberMel">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ClimberMel&theme=merko">
+
+</p>
 
 <!--
 ![Mel's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClimberMel&langs_count=5&theme=merko)]
