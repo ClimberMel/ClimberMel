@@ -14,12 +14,9 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p align="center">
+<p align="left">
 
 ![Mel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClimberMel&count_private=true&show_icons=true&theme=merko)
-
-</p>
-<p align="center">
 
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ClimberMel&theme=merko">
 
