@@ -21,7 +21,6 @@
 </p>
 <p align="center">
 
-<a align= "center" href="https://github.com/ClimberMel">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ClimberMel&theme=merko">
 
 </p>
