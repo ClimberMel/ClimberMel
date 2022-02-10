@@ -11,9 +11,16 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ![Mel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClimberMel&count_private=true&show_icons=true&theme=merko)
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ClimberMel&theme=merko">  
+<a align= "left" href="https://github.com/ClimberMel">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ClimberMel&theme=merko">
+
+<!--
+![Mel's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClimberMel&langs_count=5&theme=merko)]
+-->
 
 <!--
 **ClimberMel/ClimberMel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,10 +35,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here or discord ClimberMel's ib_insync server
 - 😄 Pronouns: anything but Mister... makes me feel old!
 - ⚡ Fun fact: On average a stock market correction happens every 2 years.  Last one was Mar 2020...
--->
-
-<!-->
-![Mel's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClimberMel&langs_count=5&theme=merko)]
 -->
 
 <!--
