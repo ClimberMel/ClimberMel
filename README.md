@@ -9,6 +9,12 @@
 - 😄 Pronouns: we like anything but Mister... makes me feel old!  😄
 - ⚡ Fun fact: On average a stock market correction happens every 2 years.  Last one was Mar 2020...
 
+
+##### Donation Button
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=V4B6LEBJDHZSJ&no_recurring=0&item_name=Software+tools+for+finances.&currency_code=USD)
+<!--
+![Mel's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClimberMel&langs_count=5&theme=merko)]
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -20,10 +26,6 @@
 
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ClimberMel&theme=merko">
 </p>
-##### Donation Button
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=V4B6LEBJDHZSJ&no_recurring=0&item_name=Software+tools+for+finances.&currency_code=USD)
-<!--
-![Mel's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClimberMel&langs_count=5&theme=merko)]
 -->
 
 <!--
