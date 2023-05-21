@@ -7,7 +7,7 @@
 - 💬 Ask me about python or tkinter... I'm getting pretty good
 - 📫 How to reach me: here or on discord ClimberMel's ib_insync server
 - 😄 Pronouns: we like anything but Mister... makes me feel old!  😄
-- ⚡ Fun fact: On average a stock market correction happens every 2 years.  Last one was Mar 2020...
+- ⚡ Fun fact: No matter how hard I work at making fool proof programs, Mother Nature works just as hard and making better fools!
 
 
 ##### Donation Button
